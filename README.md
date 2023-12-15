@@ -3,35 +3,35 @@
 Find objects in the image(jpg) and mark them as boxes.
 
 ## Source code setting
-Two ways path setup:
-	i. Image and source code in the same folder
-	``` python
-	detect_crosswalk_human_car('walk_people.jpg')
+Two ways path setup:  
+	i. Image and source code in the same folder  
+	``` python  
+	detect_crosswalk_human_car('walk_people.jpg')  
 	```
-	ii. a folder whatever named with source code and an image folder
+	ii. a folder whatever named with source code and an image folder  
 		``` python
-	detect_crosswalk_human_car('./image/walk_people.jpg')
+	detect_crosswalk_human_car('./image/walk_people.jpg')  
 	```  
 ## Steps involved:
-Install python, opencv, numpy
-Download text file
-Read image
-Create red color mask
-Find contours for crosswalk detection
-If crosswalks are found, draw bounding box around them
-For each detected object
+Install python, opencv, numpy  
+Download text file  
+Read image  
+Create red color mask  
+Find contours for crosswalk detection  
+If crosswalks are found, draw bounding box around them  
+For each detected object  
 Merge the boxes human and car
 
 ## Demo Image
 
 ## Used (version, YOLO text file, image size)
-1. python (3.12.0)
-2. opencv(4.8.1.78)
-3. numpy (1.26.2)
-4. Image (1080 x 720)
-*** Python
-https://www.python.org/downloads/
-Yolo
+1. python (3.12.0)  
+2. opencv(4.8.1.78)  
+3. numpy (1.26.2)  
+4. Image (1080 x 720)  
+*** Python  
+https://www.python.org/downloads/  
+Yolo  
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 https://github.com/pjreddie/darknet/blob/master/data/coco.names ***
 
