@@ -2,7 +2,7 @@
 **Detect Crosswalk, Object(Human, Car)**  
 Find objects in the image(jpg) and mark them as boxes.
   
-## Used (version, YOLO text file, image size)
+## Used (Version, Yolo text file, Image size)
 1. python (3.12.0)  
 2. opencv (4.8.1.78)  
 3. numpy (1.26.2)  
