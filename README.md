@@ -7,7 +7,7 @@ Two ways path setup:
 	i. Image and source code in the same folder  
 	``` python detect_crosswalk_human_car('walk_people.jpg')
 	```  
-	ii. a folder whatever named with source code and an image folder  
+	ii. A folder whatever named with source code and an image folder  
 	``` python detect_crosswalk_human_car('./image/walk_people.jpg')  
 	```  
 ## Steps involved:
@@ -27,14 +27,13 @@ Merge the boxes human and car
 2. opencv(4.8.1.78)  
 3. numpy (1.26.2)  
 4. Image (1080 x 720)  
-*** Python  
+***Python  
 https://www.python.org/downloads/  
 Yolo  
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-https://github.com/pjreddie/darknet/blob/master/data/coco.names ***
+https://github.com/pjreddie/darknet/blob/master/data/coco.names***
 
 ## Image Source
-[Link]
-(https://kr.freepik.com/free-photo/stylish-young-couple-posing-outdoors-a-young-man-with-a-bristle-in-a-cap-with-a-girl-with-long-hair-happy-young-people-are-walking-around-the-city-portrait-close-up_1210198.htm#page=3&query=%EA%B1%B0%EB%A6%AC%EB%A5%BC%20%EA%B1%B7%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4&position=25&from_view=keyword&track=ais&uuid=d327b96e-8d01-4496-9e12-678e18186db2)
+[freepik](https://kr.freepik.com/free-photo/stylish-young-couple-posing-outdoors-a-young-man-with-a-bristle-in-a-cap-with-a-girl-with-long-hair-happy-young-people-are-walking-around-the-city-portrait-close-up_1210198.htm#page=3&query=%EA%B1%B0%EB%A6%AC%EB%A5%BC%20%EA%B1%B7%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4&position=25&from_view=keyword&track=ais&uuid=d327b96e-8d01-4496-9e12-678e18186db2)  
 Source  
 <a href="https://kr.freepik.com/free-photo/stylish-young-couple-posing-outdoors-a-young-man-with-a-bristle-in-a-cap-with-a-girl-with-long-hair-happy-young-people-are-walking-around-the-city-portrait-close-up_1210198.htm#page=3&query=%EA%B1%B0%EB%A6%AC%EB%A5%BC%20%EA%B1%B7%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4&position=25&from_view=keyword&track=ais&uuid=d327b96e-8d01-4496-9e12-678e18186db2">작가 Kireyonok_Yuliya</a> Source Freepik
