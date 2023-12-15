@@ -13,7 +13,7 @@ Yolo
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 https://github.com/pjreddie/darknet/blob/master/data/coco.names***  
 
-## Source code setting
+## Development Environment Settings
 Two ways path setup:  
 i. Image and source code in the same folder  
   ```
