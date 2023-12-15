@@ -16,7 +16,8 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names***
 ## Source code setting
 Two ways path setup:  
 i. Image and source code in the same folder  
-  ``` python detect_crosswalk_human_car('walk_people.jpg')
+  ```
+  python detect_crosswalk_human_car('walk_people.jpg')
   ```  
 ii. A folder whatever named with source code and an image folder  
   ``` python detect_crosswalk_human_car('./image/walk_people.jpg')  
