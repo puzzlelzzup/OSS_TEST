@@ -4,10 +4,10 @@ Find objects in the image(jpg) and mark them as boxes.
 
 ## Source code setting
 Two ways path setup:  
-	i. Image and source code in the same folder  
+  i. Image and source code in the same folder  
 	``` python detect_crosswalk_human_car('walk_people.jpg')
 	```  
-	ii. A folder whatever named with source code and an image folder  
+  ii. A folder whatever named with source code and an image folder  
 	``` python detect_crosswalk_human_car('./image/walk_people.jpg')  
 	```  
 ## Steps involved:
@@ -24,9 +24,9 @@ Merge the boxes human and car
 ![walk_people](https://github.com/puzzlelzzup/OSS_TEST/assets/95035903/399e4aba-3968-49e9-8410-7833215e589d)
 ## Used (version, YOLO text file, image size)
 1. python (3.12.0)  
-2. opencv(4.8.1.78)  
+2. opencv (4.8.1.78)  
 3. numpy (1.26.2)  
-4. Image (1080 x 720)  
+4. image size (1080 x 720)  
 ***Python  
 https://www.python.org/downloads/  
 Yolo  
