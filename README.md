@@ -21,7 +21,7 @@ For each detected object
 Merge the boxes human and car
 
 ## Demo Image
-<img src="/path/to/walk_people.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+![walk_people](https://github.com/puzzlelzzup/OSS_TEST/assets/95035903/399e4aba-3968-49e9-8410-7833215e589d)
 ## Used (version, YOLO text file, image size)
 1. python (3.12.0)  
 2. opencv(4.8.1.78)  
