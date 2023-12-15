@@ -20,7 +20,8 @@ i. Image and source code in the same folder
   python detect_crosswalk_human_car('walk_people.jpg')
   ```  
 ii. A folder whatever named with source code and an image folder  
-  ``` python detect_crosswalk_human_car('./image/walk_people.jpg')  
+  ```
+python detect_crosswalk_human_car('./image/walk_people.jpg')  
   ```  
 ## Steps involved:
 Install python, opencv, numpy  
